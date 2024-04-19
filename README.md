@@ -41,6 +41,8 @@ cd frontend
 Install Dependencies
 
 npm i
+
+
 Configure Environment Variables
 
 cp .env.sample .env.local
